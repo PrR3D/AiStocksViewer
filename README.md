@@ -20,3 +20,18 @@ This application was developed exclusively for educational and research purposes
 The data displayed by the application should not be considered accurate, real-time, or reliable and must not be used for investment, trading, or financial decision-making.
 
 The project is not affiliated with any financial institution or stock exchange.
+
+## Some Images From my App
+
+# Home Tab
+![Image](https://github.com/user-attachments/assets/8bd28f76-4e8c-4d50-992d-2486e1c68edb)
+
+# Login Window
+![Image](https://github.com/user-attachments/assets/0dfdbb20-f351-4a86-aafc-fb76a1b85985)
+
+# Analytics Tab
+![Image](https://github.com/user-attachments/assets/5e608029-b6b6-4e2e-acb7-e28cffda1dda)
+
+# Excel file from Download button
+![Image](https://github.com/user-attachments/assets/14ecad94-51ee-4944-ac91-395d82e3de20)
+
